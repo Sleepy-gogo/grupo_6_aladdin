@@ -11,6 +11,8 @@
 - Karen Cordoba
 - Victor Taboada
 
+> [Trello del equipo](https://trello.com/b/qdp1YQM3)
+
 <h2 align="center">Aladdin - La magia de la indumentaria</h2>
 
 <p align="center">
@@ -41,7 +43,24 @@
 
 > *Display de productos, fotos utilizadas y diseño en general de sus banners*
 
-<h2 align="center">Wireframe</h2>
+<h2 align="center">Identidad de la página</h2>
+
+## Paleta de colores:
+
+- #FFFFFF - 60% Blanco
+- #D52941 - 30% Rojo oxidado
+- #990D35 - 10% Fucsia
+
+- #1e1e1e - Apoyo negro
+- #454545 - Apoyo gris oscuro
+- #959595 - APoyo gris claro
+
+## Fuentes:
+
+- Nexa (Titulares, párrafos)
+- Lydian (Logo)
+
+<h2 align="center">Wireframes</h2>
 
 <figure>
 	<figcaptation>Home page</figcaptation>
